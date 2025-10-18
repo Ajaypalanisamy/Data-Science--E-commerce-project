@@ -123,11 +123,6 @@ Key steps for preparing data:
   - Include more detailed specs (RAM, Processor)  
   - Explore **Time Series Analysis** for trend forecasting  
 
----
 
-## Questions
-Thank you for your time.  
-I am happy to take any questions regarding this project.
 
----
 
